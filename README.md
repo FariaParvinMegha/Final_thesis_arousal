@@ -49,6 +49,7 @@ Emotion recognition is vital for human-computer interaction, healthcare, and aff
 | CNN    | ~93.4%   | ~93.5%    | ~93.4%   |
 | GRU    | ~92.8%   | ~93.0%    | ~92.8%   |
 | Hybrid | ~92.5%   | ~92.7%    | ~92.5%   |
+
 All models exhibited strong emotion recognition performance, with CNN slightly outperforming others in accuracy, while GRU minimized loss.
 
 # Installation Requirements
@@ -58,5 +59,5 @@ All models exhibited strong emotion recognition performance, with CNN slightly o
 
 # Usage 
 - Load the Dataset: Import the DEAP dataset into the working directory.
-- Run Model Comparisons: Execute the notebook or script to train and test each model on the dataset.
+- Run Model Comparisons: Execute the notebook or script to train and test each model on the dataset for each category.
 - Evaluate Results: Compare the accuracy and performance of each model to verify the effectiveness of the models.
